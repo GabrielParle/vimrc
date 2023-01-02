@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =4
+let g:netrw_dirhist_4='/home/gabrielp/.config/nvim/lua/theParle'
+let g:netrw_dirhist_3='/home/gabrielp/.config/nvim/lua'
+let g:netrw_dirhist_2='/home/gabrielp/.config/nvim'
+let g:netrw_dirhist_1='/home/gabrielp/.config/nvim/lua/theParle'
+let g:netrw_dirhist_0='/home/gabrielp/.config/nvim/lua'
+let g:netrw_dirhist_9='/home/gabrielp/.config/nvim'
+let g:netrw_dirhist_8='/home/gabrielp/.config/nvim/lua/theParle'
+let g:netrw_dirhist_7='/home/gabrielp/.config/nvim/lua'
+let g:netrw_dirhist_6='/home/gabrielp/.config/nvim'
+let g:netrw_dirhist_5='/home/gabrielp/.config/nvim/lua'
